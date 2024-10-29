@@ -1,0 +1,56 @@
+Producto 1Introduce el valor 0 en la posicion 1, Array = 0, Suma = 0
+Consumidor saca el valor 0 de la posición 1, Array = , Suma = 0
+Producto 2Introduce el valor 0 en la posicion 1, Array = 0, Suma = 0
+Producto 1Introduce el valor 5 en la posicion 2, Array = 0 - 5, Suma = 0
+Producto 2Introduce el valor 0 en la posicion 3, Array = 0 - 5 - 0, Suma = 0
+Consumidor saca el valor 0 de la posición 3, Array = 0 - 5, Suma = 0
+Producto 1Introduce el valor 8 en la posicion 3, Array = 0 - 5 - 8, Suma = 0
+Producto 2Introduce el valor 10 en la posicion 4, Array = 0 - 5 - 8 - 10, Suma = 0
+Producto 1Introduce el valor 4 en la posicion 5, Array = 0 - 5 - 8 - 10 - 4, Suma = 0
+Consumidor saca el valor 4 de la posición 5, Array = 0 - 5 - 8 - 10, Suma = 4
+Producto 2Introduce el valor 3 en la posicion 5, Array = 0 - 5 - 8 - 10 - 3, Suma = 4
+Producto 1Introduce el valor 6 en la posicion 6, Array = 0 - 5 - 8 - 10 - 3 - 6, Suma = 4
+Producto 2Introduce el valor 1 en la posicion 7, Array = 0 - 5 - 8 - 10 - 3 - 6 - 1, Suma = 4
+Consumidor saca el valor 1 de la posición 7, Array = 0 - 5 - 8 - 10 - 3 - 6, Suma = 5
+Producto 1Introduce el valor 10 en la posicion 7, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10, Suma = 5
+Producto 2Introduce el valor 8 en la posicion 8, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8, Suma = 5
+Consumidor saca el valor 8 de la posición 8, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10, Suma = 13
+Producto 1Introduce el valor 8 en la posicion 8, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8, Suma = 13
+Producto 2Introduce el valor 0 en la posicion 9, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 13
+Producto 1Introduce el valor 5 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 5, Suma = 13
+Consumidor saca el valor 5 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 18
+Producto 2Introduce el valor 9 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 9, Suma = 18
+Consumidor saca el valor 9 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 27
+Producto 1Introduce el valor 6 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 6, Suma = 27
+Consumidor saca el valor 6 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 33
+Producto 2Introduce el valor 6 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 6, Suma = 33
+Consumidor saca el valor 6 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 39
+Producto 1Introduce el valor 10 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 10, Suma = 39
+Consumidor saca el valor 10 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 49
+Producto 2Introduce el valor 1 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 1, Suma = 49
+Consumidor saca el valor 1 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 50
+Producto 1Introduce el valor 8 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 8, Suma = 50
+Consumidor saca el valor 8 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 58
+Producto 2Introduce el valor 3 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 3, Suma = 58
+Consumidor saca el valor 3 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 61
+Producto 1Introduce el valor 8 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 8, Suma = 61
+Consumidor saca el valor 8 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 69
+Producto 2Introduce el valor 1 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 1, Suma = 69
+Consumidor saca el valor 1 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 70
+Producto 1Introduce el valor 5 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 5, Suma = 70
+Consumidor saca el valor 5 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 75
+Producto 2Introduce el valor 1 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 1, Suma = 75
+Consumidor saca el valor 1 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 76
+Producto 1Introduce el valor 3 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 3, Suma = 76
+Consumidor saca el valor 3 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 79
+Producto 2Introduce el valor 4 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 4, Suma = 79
+Consumidor saca el valor 4 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 83
+Producto 1Introduce el valor 6 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 6, Suma = 83
+Consumidor saca el valor 6 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 89
+Producto 2Introduce el valor 3 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 3, Suma = 89
+Consumidor saca el valor 3 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 92
+Producto 1Introduce el valor 4 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 4, Suma = 92
+Consumidor saca el valor 4 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 96
+Producto 2Introduce el valor 7 en la posicion 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0 - 7, Suma = 96
+Consumidor saca el valor 7 de la posición 10, Array = 0 - 5 - 8 - 10 - 3 - 6 - 10 - 8 - 0, Suma = 103
+Resultado final: 103

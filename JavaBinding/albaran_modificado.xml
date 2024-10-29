@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedido>
+    <facturarA>
+        <nombre>Joselito Javier</nombre>
+        <calle>Zafiro 3</calle>
+        <ciudad>Molina</ciudad>
+        <provincia>Murcia</provincia>
+        <codigoPostal>30500</codigoPostal>
+    </facturarA>
+    <comentario>Lineas de pedido</comentario>
+    <articulos>
+        <articulo codigo="872-AA">
+            <nombreProducto>Aspirina</nombreProducto>
+            <cantidad>1</cantidad>
+            <precio>3.60</precio>
+            <comentario>Para el dolor de cabeza</comentario>
+            <fechaEnvio>2010-10-18</fechaEnvio>
+        </articulo>
+        <articulo codigo="926-BC">
+            <nombreProducto>Gelocatil</nombreProducto>
+            <cantidad>2</cantidad>
+            <precio>7.20</precio>
+            <fechaEnvio>2010-09-15</fechaEnvio>
+        </articulo>
+        <articulo codigo="PER001">
+            <nombreProducto>Producto 1</nombreProducto>
+            <cantidad>5</cantidad>
+            <precio>10.00</precio>
+        </articulo>
+        <articulo codigo="PER002">
+            <nombreProducto>Producto 2</nombreProducto>
+            <cantidad>3</cantidad>
+            <precio>20.00</precio>
+        </articulo>
+    </articulos>
+</pedido>
