@@ -1,9 +1,0 @@
-net.sf.jasperreports.engine.JRException: Unable to load report
-	at net.sf.jasperreports.engine.xml.JRXmlLoader.loadXML(JRXmlLoader.java:172)
-	at net.sf.jasperreports.engine.xml.JRXmlLoader.load(JRXmlLoader.java:149)
-	at net.sf.jasperreports.engine.xml.JRXmlLoader.load(JRXmlLoader.java:120)
-	at net.sf.jasperreports.engine.xml.JRXmlLoader.load(JRXmlLoader.java:98)
-	at net.sf.jasperreports.engine.xml.JRXmlLoader.load(JRXmlLoader.java:89)
-	at net.sf.jasperreports.engine.JasperCompileManager.compile(JasperCompileManager.java:281)
-	at net.sf.jasperreports.engine.JasperCompileManager.compileReport(JasperCompileManager.java:568)
-	at jasperdemo.JasperDemo.main(JasperDemo.java:48)
